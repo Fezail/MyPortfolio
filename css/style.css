@@ -225,6 +225,7 @@ section .title{
     border-radius: 6px;
     padding: 20px 0;
     cursor: pointer;
+    transition: all 0.3s ease;
 }
 .skills .skills-content .card i{
     font-size: 80px;
