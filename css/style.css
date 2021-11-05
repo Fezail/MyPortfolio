@@ -88,7 +88,7 @@ section .title{
 /* home section styling */
 .home{
     display: flex;
-    background: url(../Image/wp3157716-black-wood-wallpaper.jpg) no-repeat center;
+    background: url(../Image/backgroun.png) no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
